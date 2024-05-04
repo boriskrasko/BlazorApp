@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAgoeVw12w5tOBv43irLXBRbwCGE88KII82dFkp0qbAgpv+AX9j1rBwnavP+I/pynRSP9Md64dYNxNHZcAzmFQ==",
+  "dgSpecHash": "i+rwZ8mkD8xKjkCF301XxQfqJwL0Pg90mgHJj95U2QA7BI02ANNC/qBTAQflXqqSPch26Gvy+b3ScIv//A0C+w==",
   "success": true,
-  "projectFilePath": "/Users/boriskrasko/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/Users/boriskrasko/Documents/GitHub/BlazorApp/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

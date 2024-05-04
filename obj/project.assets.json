@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boriskrasko/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/Users/boriskrasko/Documents/GitHub/BlazorApp/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/Users/boriskrasko/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/Users/boriskrasko/Documents/GitHub/BlazorApp/BlazorApp.csproj",
       "packagesPath": "/Users/boriskrasko/.nuget/packages/",
-      "outputPath": "/Users/boriskrasko/BlazorApp/obj/",
+      "outputPath": "/Users/boriskrasko/Documents/GitHub/BlazorApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/boriskrasko/.nuget/NuGet/NuGet.Config"
